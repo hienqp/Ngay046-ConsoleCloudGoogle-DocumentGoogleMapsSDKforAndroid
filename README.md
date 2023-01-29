@@ -115,4 +115,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 ```
 
 - sau khi đã thực hiện đầy đủ các bước trên ta có thể run app để test hiển thị Google Map
-1_show_map_successfully
+
+<img src="https://github.com/hienqp/Ngay046-ConsoleCloudGoogle-DocumentGoogleMapsSDKforAndroid/blob/main/1_show_map_successfully.png">
+
